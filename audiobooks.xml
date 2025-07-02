@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>My Audiobooks</title>
+    <link>https://example.com</link>
+    <description>Private feed of audiobooks</description>
+    <language>en-us</language>
+
+    <item>
+      <title>Shadow Hunter</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://ia600404.us.archive.org/31/items/shadow-hunter/Shadow%20Hunter.mp3" type="audio/mpeg"/>
+      <guid>book1</guid>
+      <pubDate>Tue, 01 Jul 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+  </channel>
+</rss>
