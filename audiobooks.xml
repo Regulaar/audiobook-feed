@@ -22,6 +22,14 @@
       <guid>book2</guid>
       <pubDate>Wed, 03 Jul 2025 12:00:00 GMT</pubDate>
     </item>
+
+    <item>
+      <title>Churchill: Walking with Destiny</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://ia801400.us.archive.org/16/items/churchill-walking-with-destiny_20250707/Churchill%20Walking%20with%20Destiny.mp3" type="audio/mpeg"/>
+      <guid>book3</guid>
+      <pubDate>Mon, 07 Jul 2025 12:00:00 GMT</pubDate>
+    </item>
     
   </channel>
 </rss>
