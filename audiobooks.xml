@@ -8,13 +8,21 @@
     <itunes:image href="https://raw.githubusercontent.com/Regulaar/audiobook-feed/main/my%20audiobooks.png"/>
 
     <item>
-      <title>Star Wars: Shadow Hunter</title>
+      <title>Star Wars: Darth Plagueis</title>
       <description>Uploaded manually</description>
-      <enclosure url="https://ia600404.us.archive.org/31/items/shadow-hunter/Shadow%20Hunter.mp3" type="audio/mpeg"/>
-      <guid>book1</guid>
-      <pubDate>Tue, 01 Jul 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia801206.us.archive.org/25/items/star-wars-darth-plagueis_202507/Star%20Wars%20Darth%20Plagueis.mp3" type="audio/mpeg"/>
+      <guid>book4</guid>
+      <pubDate>Tue, 08 Jul 2025 12:00:00 GMT</pubDate>
     </item>
-
+    
+    <item>
+      <title>Churchill: Walking with Destiny</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://ia801400.us.archive.org/16/items/churchill-walking-with-destiny_20250707/Churchill%20Walking%20with%20Destiny.mp3" type="audio/mpeg"/>
+      <guid>book3</guid>
+      <pubDate>Mon, 07 Jul 2025 12:00:00 GMT</pubDate>
+    </item>
+    
     <item>
       <title>Star Wars Episode I: Phantom Menace</title>
       <description>Uploaded manually</description>
@@ -22,13 +30,13 @@
       <guid>book2</guid>
       <pubDate>Wed, 03 Jul 2025 12:00:00 GMT</pubDate>
     </item>
-
+    
     <item>
-      <title>Churchill: Walking with Destiny</title>
+      <title>Star Wars: Shadow Hunter</title>
       <description>Uploaded manually</description>
-      <enclosure url="https://ia801400.us.archive.org/16/items/churchill-walking-with-destiny_20250707/Churchill%20Walking%20with%20Destiny.mp3" type="audio/mpeg"/>
-      <guid>book3</guid>
-      <pubDate>Mon, 07 Jul 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://ia600404.us.archive.org/31/items/shadow-hunter/Shadow%20Hunter.mp3" type="audio/mpeg"/>
+      <guid>book1</guid>
+      <pubDate>Tue, 01 Jul 2025 12:00:00 GMT</pubDate>
     </item>
     
   </channel>
