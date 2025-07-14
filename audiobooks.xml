@@ -8,6 +8,14 @@
     <itunes:image href="https://raw.githubusercontent.com/Regulaar/audiobook-feed/main/my%20audiobooks.png"/>
 
     <item>
+      <title>Star Wars: Rogue Planet</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://ia601205.us.archive.org/0/items/star-wars-rogue-planet/Star%20Wars%20Rogue%20Planet.mp3" type="audio/mpeg"/>
+      <guid>book5</guid>
+      <pubDate>Mon, 14 Jul 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
       <title>Star Wars: Darth Plagueis</title>
       <description>Uploaded manually</description>
       <enclosure url="https://ia801206.us.archive.org/25/items/star-wars-darth-plagueis_202507/Star%20Wars%20Darth%20Plagueis.mp3" type="audio/mpeg"/>
