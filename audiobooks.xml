@@ -8,6 +8,14 @@
     <itunes:image href="https://raw.githubusercontent.com/Regulaar/audiobook-feed/main/my%20audiobooks.png"/>
 
     <item>
+      <title>Star Wars: Outbound Flight</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://dn721204.ca.archive.org/0/items/star-wars-outbound-flight/Star%20Wars%20Outbound%20Flight.mp3" type="audio/mpeg"/>
+      <guid>book6</guid>
+      <pubDate>Mon, 14 Jul 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
       <title>Star Wars: Rogue Planet</title>
       <description>Uploaded manually</description>
       <enclosure url="https://ia601205.us.archive.org/0/items/star-wars-rogue-planet/Star%20Wars%20Rogue%20Planet.mp3" type="audio/mpeg"/>
