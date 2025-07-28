@@ -8,6 +8,38 @@
     <itunes:image href="https://raw.githubusercontent.com/Regulaar/audiobook-feed/main/my%20audiobooks.png"/>
 
     <item>
+      <title>Star Wars: 4. Jedi Quest- The Master of Disguise</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://ia601403.us.archive.org/29/items/04-jedi-quest-the-master-of-disguise/04%20-%20Jedi%20Quest%20-%20The%20Master%20of%20Disguise.mp3" type="audio/mpeg"/>
+      <guid>book10</guid>
+      <pubDate>Mon, 21 Jul 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Star Wars: 3. Jedi Quest - The Dangerous Games</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://ia601006.us.archive.org/2/items/03-jedi-quest-the-dangerous-games/03%20-%20Jedi%20Quest%20-%20The%20Dangerous%20Games.mp3" type="audio/mpeg"/>
+      <guid>book9</guid>
+      <pubDate>Mon, 21 Jul 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Star Wars: 2. Jedi Quest - The Trail of the Jedi</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://ia800907.us.archive.org/1/items/02-jedi-quest-the-trail-of-the-jedi/02%20-%20Jedi%20Quest%20-%20The%20Trail%20of%20the%20Jedi.mp3" type="audio/mpeg"/>
+      <guid>book8</guid>
+      <pubDate>Mon, 21 Jul 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Star Wars: 1. Jedi Quest - The Way of the Apprentice</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://ia800900.us.archive.org/4/items/01-jedi-quest-the-way-of-the-apprentice_202507/01%20-%20Jedi%20Quest%20-%20The%20Way%20of%20the%20Apprentice.mp3" type="audio/mpeg"/>
+      <guid>book7</guid>
+      <pubDate>Mon, 21 Jul 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
       <title>Star Wars: Outbound Flight</title>
       <description>Uploaded manually</description>
       <enclosure url="https://dn721204.ca.archive.org/0/items/star-wars-outbound-flight/Star%20Wars%20Outbound%20Flight.mp3" type="audio/mpeg"/>
