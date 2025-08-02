@@ -5,7 +5,7 @@
     <link>https://example.com</link>
     <description>Private feed of audiobooks</description>
     <language>en-us</language>
-    <itunes:image href="https://raw.githubusercontent.com/Regulaar/audiobook-feed/main/my%20audiobooks.png"/>
+    <itunes:image href="https://raw.githubusercontent.com/Regulaar/audiobook-feed/main/Star%20Wars%20audiobooks.png"/>
 
     <item>
       <title>Star Wars: The Approaching Storm</title>
@@ -89,4 +89,5 @@
     
   </channel>
 </rss>
+
 
