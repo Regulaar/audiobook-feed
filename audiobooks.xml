@@ -1,12 +1,20 @@
 <rss version="2.0"
   xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>My Audiobooks</title>
+    <title>Star Wars Audiobooks</title>
     <link>https://example.com</link>
     <description>Private feed of audiobooks</description>
     <language>en-us</language>
     <itunes:image href="https://raw.githubusercontent.com/Regulaar/audiobook-feed/main/my%20audiobooks.png"/>
 
+    <item>
+      <title>Star Wars: The Approaching Storm</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://ia801000.us.archive.org/32/items/the-approaching-storm/The%20Approaching%20Storm.mp3" type="audio/mpeg"/>
+      <guid>book11</guid>
+      <pubDate>Mon, 21 Jul 2025 12:00:00 GMT</pubDate>
+    </item>
+    
     <item>
       <title>Star Wars: 4. Jedi Quest- The Master of Disguise</title>
       <description>Uploaded manually</description>
@@ -62,15 +70,7 @@
       <guid>book4</guid>
       <pubDate>Tue, 08 Jul 2025 12:00:00 GMT</pubDate>
     </item>
-    
-    <item>
-      <title>Churchill: Walking with Destiny</title>
-      <description>Uploaded manually</description>
-      <enclosure url="https://ia801400.us.archive.org/16/items/churchill-walking-with-destiny_20250707/Churchill%20Walking%20with%20Destiny.mp3" type="audio/mpeg"/>
-      <guid>book3</guid>
-      <pubDate>Mon, 07 Jul 2025 12:00:00 GMT</pubDate>
-    </item>
-    
+      
     <item>
       <title>Star Wars Episode I: Phantom Menace</title>
       <description>Uploaded manually</description>
@@ -89,3 +89,4 @@
     
   </channel>
 </rss>
+
