@@ -8,6 +8,14 @@
     <itunes:image href="https://raw.githubusercontent.com/Regulaar/audiobook-feed/main/Star%20Wars%20audiobooks.png"/>
 
     <item>
+      <title>Star Wars Episode II: Attack Of The Clones</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://ia601009.us.archive.org/10/items/attack-of-the-clones_202508/Attack%20Of%20The%20Clones.mp3" type="audio/mpeg"/>
+      <guid>book12</guid>
+      <pubDate>Mon, 21 Jul 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
       <title>Star Wars: The Approaching Storm</title>
       <description>Uploaded manually</description>
       <enclosure url="https://ia801000.us.archive.org/32/items/the-approaching-storm/The%20Approaching%20Storm.mp3" type="audio/mpeg"/>
@@ -89,5 +97,6 @@
     
   </channel>
 </rss>
+
 
 
