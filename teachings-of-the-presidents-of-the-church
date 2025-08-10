@@ -1,0 +1,19 @@
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Teachings of the Presidents of the Church</title>
+    <link>https://example.com</link>
+    <description>Private feed of audiobooks</description>
+    <language>en-us</language>
+    <itunes:image href="https://raw.githubusercontent.com/Regulaar/audiobook-feed/main/Teachings%20of%20the%20Presidents%20of%20the%20Church.png"/>
+
+    <item>
+      <title>Joseph Smith</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://ia801001.us.archive.org/18/items/teachings-of-the-presidents-of-the-church-joseph-smith/Teachings%20of%20the%20Presidents%20of%20the%20Church%20Joseph%20Smith.mp3" type="audio/mpeg"/>
+      <guid>book1</guid>
+      <pubDate>Sun, 10 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+  </channel>
+</rss>
