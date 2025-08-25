@@ -1,0 +1,91 @@
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Let's Talk About...</title>
+    <link>https://example.com</link>
+    <description>Private feed of audiobooks</description>
+    <language>en-us</language>
+    <itunes:image href="https://raw.githubusercontent.com/Regulaar/audiobook-feed/main/Let's%20Talk%20About....png"/>
+
+    <item>
+      <title>Let's Talk About: The Translation Of The Book Of Mormon</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://dn721908.ca.archive.org/0/items/lets-talk-about-the-translation-of-the-book-of-mormon/Let%27s%20Talk%20About%20The%20Translation%20Of%20The%20Book%20Of%20Mormon.mp3" type="audio/mpeg"/>
+      <guid>book10</guid>
+      <pubDate>Mon, 25 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Let's Talk About: The Law Of Consecration</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://ia801907.us.archive.org/35/items/lets-talk-about-the-law-of-consecration/Let%27s%20Talk%20About%20The%20Law%20of%20Consecration.mp3" type="audio/mpeg"/>
+      <guid>book9</guid>
+      <pubDate>Mon, 25 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Let's Talk About: The Book Of Abraham</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://ia601003.us.archive.org/33/items/lets-talk-about-the-book-of-abraham/Let%27s%20Talk%20About%20The%20Book%20Of%20Abraham.mp3" type="audio/mpeg"/>
+      <guid>book8</guid>
+      <pubDate>Mon, 25 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Let's Talk About: Temples And Ritual</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://dn721803.ca.archive.org/0/items/lets-talk-about-temples-and-ritual/Let%27s%20Talk%20About%20Temples%20and%20Ritual.mp3" type="audio/mpeg"/>
+      <guid>book7</guid>
+      <pubDate>Mon, 25 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Let's Talk About: Science And Religion</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://ia601002.us.archive.org/19/items/lets-talk-about-science-and-religion/Let%27s%20Talk%20About%20Science%20And%20Religion.mp3" type="audio/mpeg"/>
+      <guid>book6</guid>
+      <pubDate>Mon, 25 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Let's Talk About: Religion And Mental Health</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://dn721609.ca.archive.org/0/items/lets-talk-about-religion-and-mental-health/Let%27s%20Talk%20About%20Religion%20And%20Mental%20Health.mp3" type="audio/mpeg"/>
+      <guid>book5</guid>
+      <pubDate>Mon, 25 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Let's Talk About: Race and Priesthood</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://ia601001.us.archive.org/9/items/lets-talk-about-race-and-priesthood/Let%27s%20Talk%20About%20Race%20and%20Priesthood.mp3" type="audio/mpeg"/>
+      <guid>book4</guid>
+      <pubDate>Mon, 25 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Let's Talk About: Polygamy</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://ia601003.us.archive.org/23/items/lets-talk-about-polygamy/Let%27s%20Talk%20About%20Polygamy.mp3" type="audio/mpeg"/>
+      <guid>book3</guid>
+      <pubDate>Mon, 25 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Let's Talk About: Faith and Intellect</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://ia600908.us.archive.org/12/items/lets-talk-about-faith-and-intellect/Let%27s%20Talk%20About%20Faith%20and%20Intellect.mp3" type="audio/mpeg"/>
+      <guid>book2</guid>
+      <pubDate>Mon, 25 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+    <item>
+      <title>Let's Talk About: Becoming Like God</title>
+      <description>Uploaded manually</description>
+      <enclosure url="https://ia801600.us.archive.org/31/items/lets-talk-about-becoming-like-god/Let%27s%20Talk%20About%20Becoming%20Like%20God.mp3" type="audio/mpeg"/>
+      <guid>book1</guid>
+      <pubDate>Mon, 25 Aug 2025 12:00:00 GMT</pubDate>
+    </item>
+    
+  </channel>
+</rss>
